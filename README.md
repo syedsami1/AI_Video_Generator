@@ -97,7 +97,7 @@ pip install fastapi uvicorn diffusers[torch] torch imageio moviepy
 | Setting       | GPU (Best)     | CPU (Demo)   |
 |---------------|---------------|--------------|
 | Resolution    | 576x320       | 320x256      |
-| # Frames      | 16            | 8–12         |
+| Frames      | 16            | 8–12         |
 | Steps         | 20            | 10–15        |
 | Wait time     | 2–5min        | 10–15min     |
 
